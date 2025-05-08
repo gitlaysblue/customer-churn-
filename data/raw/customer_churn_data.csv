@@ -1,0 +1,21 @@
+CustomerID,Gender,Age,Tenure,PhoneService,InternetService,Contract,MonthlyCharges,TotalCharges,PaperlessBilling,PaymentMethod,Churn
+7590-VHVEG,Female,29,33,Yes,Fiber optic,Month-to-month,65.6,2171.8,Yes,Electronic check,0
+5575-GNVDE,Male,45,2,No,DSL,One year,45.3,90.6,No,Mailed check,0
+3668-QPYBK,Male,35,45,Yes,DSL,Two year,42.3,1840.75,No,Bank transfer (automatic),0
+7795-CFOCW,Male,42,45,Yes,Fiber optic,Month-to-month,94.4,4249.65,Yes,Electronic check,1
+9237-HQITU,Female,51,2,Yes,Fiber optic,Month-to-month,100.5,201,Yes,Electronic check,1
+9305-CDSKC,Female,31,8,Yes,Fiber optic,Month-to-month,70.7,565.6,Yes,Electronic check,1
+1452-KIOVK,Male,58,22,Yes,Fiber optic,One year,89.1,1949.4,No,Credit card (automatic),0
+6713-OKOMC,Female,37,10,No,No,Month-to-month,29.85,301.9,No,Mailed check,0
+7892-POOKP,Female,48,39,Yes,Fiber optic,Month-to-month,99.65,3872.45,Yes,Electronic check,1
+6388-TABGU,Male,62,49,Yes,DSL,One year,56.15,2732.85,No,Bank transfer (automatic),0
+9763-GRSKD,Male,56,13,Yes,Fiber optic,Month-to-month,99.5,1273.1,Yes,Electronic check,1
+7469-LKBCI,Male,46,16,No,No,Two year,18.95,326.8,No,Credit card (automatic),0
+8091-TTVAX,Male,58,58,Yes,Fiber optic,Two year,100.35,5681.1,No,Credit card (automatic),0
+0280-XJGEX,Male,49,5,Yes,Fiber optic,Month-to-month,89.1,445.5,Yes,Electronic check,1
+5129-JLPIS,Male,43,45,Yes,Fiber optic,Month-to-month,105.5,4707.1,No,Electronic check,1
+3655-SNQYZ,Female,37,24,Yes,DSL,Two year,52.55,1264.95,Yes,Bank transfer (automatic),0
+8191-XWSZG,Female,52,69,Yes,Fiber optic,Two year,99.65,6766.95,No,Credit card (automatic),0
+9959-WOFKT,Male,71,10,Yes,Fiber optic,Month-to-month,106.7,1078.9,Yes,Electronic check,1
+4190-MFLUW,Female,35,10,Yes,DSL,Month-to-month,55.2,528.35,Yes,Electronic check,0
+4183-MYFRB,Female,51,21,Yes,Fiber optic,Month-to-month,100.8,2102.35,Yes,Electronic check,1 
